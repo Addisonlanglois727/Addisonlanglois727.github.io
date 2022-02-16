@@ -1,3 +1,5 @@
 {
-    "workbench.preferredHighContrastColorTheme": "Abyss"
+    "workbench.preferredHighContrastColorTheme": "Abyss",
+    "workbench.preferredDarkColorTheme": "Default Dark+",
+    "workbench.colorTheme": "Default Dark+"
 }
