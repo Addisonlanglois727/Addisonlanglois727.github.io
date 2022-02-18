@@ -35,12 +35,7 @@
 
         ////////////////////////////////////////////////////////////////////////
         // ALL YOUR CODE GOES BELOW HERE ///////////////////////////////////////
-        createCollectable(type.kennedi, 150, 50, 3, 10)
-        // example: 
-        createCollectable(type.steve, 200, 170, 6, 0.7);
-        
-        
-        
+        createCollectable(type.kennedi, 150, 50, 3, 1)
         // ALL YOUR CODE GOES ABOVE HERE ///////////////////////////////////////
         ////////////////////////////////////////////////////////////////////////
     };
