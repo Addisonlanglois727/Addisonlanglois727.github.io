@@ -35,7 +35,10 @@
 
         ////////////////////////////////////////////////////////////////////////
         // ALL YOUR CODE GOES BELOW HERE ///////////////////////////////////////
-        createCollectable(type.kennedi, 150, 50, 3, 1)
+        createCollectable(type.kennedi, 150, 305, 6)
+        createCollectable(type.max, 200, 550, 6)
+        createCollectable(type.grace, 400, 300, 6)
+        createCollectable(type.steve, 750, 425, 6)
         // ALL YOUR CODE GOES ABOVE HERE ///////////////////////////////////////
         ////////////////////////////////////////////////////////////////////////
     };
